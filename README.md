@@ -1,7 +1,7 @@
 # CODSOFT_2
 Web Development Internship Program (CODSOFT)
 
-Level-2 Task-1
+**Level-2 Task-1**
 
 # MS Dhoni Tribute Page
 
