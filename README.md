@@ -1,4 +1,4 @@
-# CODSOFT_2
+# CODSOFT_1
 Web Development Internship Program (CODSOFT)
 
 **Level-2 Task-1**
