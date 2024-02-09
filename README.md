@@ -1,3 +1,7 @@
+# CODSOFT_2
+Web Development Internship Program (CODSOFT)
+
+
 # MS Dhoni Tribute Page
 
 This project is a tribute page dedicated to the legendary Indian cricketer, Mahendra Singh Dhoni, fondly known as "Captain Cool". 
